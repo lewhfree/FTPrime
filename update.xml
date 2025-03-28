@@ -15,10 +15,10 @@
    <connkit root="%1" name="HP_Prime_Connectivity_Kit_%1.dmg"><f>20200116</f></connkit>
   </os>
   <os name="bestaos">
-   <app root="%1" name="HP_Prime_Calculator_Firmware_%1.zip"><f>20250131</f></app>
+   <app root="%1" name="HP_Prime_Calculator_Firmware_%1.zip"><f>20250231</f></app>
   </os>
   <os name="rtos">
-   <app root="%1" name="HP_Prime_Calculator_G2_Firmware_%1.zip"><f>20250131</f></app>
+   <app root="%1" name="HP_Prime_Calculator_G2_Firmware_%1.zip"><f>20250231</f></app>
   </os>
   <doc type="connkit" root="Documentation/Computer/%1" name="Connectivity_Kit_%1_%2.pdf">
    <EN>  <f>2016_08_29_1</f> </EN>
