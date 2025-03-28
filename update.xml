@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Update 2025 01 31 -->
+<update>
+ <site type="main" root="updates.moravia-consulting.com/%1">
+  <os name="windows">
+   <app root="%1" name="HP_Prime_Virtual_Calculator_%1.exe"><f>2025_01_31</f></app>
+   <connkit root="%1" name="HP_Prime_Connectivity_Kit_%1.exe"><f>20250131</f></connkit>
+  </os>
+  <os name="windows64">
+   <app root="%1" name="HP_Prime_Virtual_Calculator_x64_%1.exe"><f>2025_01_31</f></app>
+   <connkit root="%1" name="HP_Prime_Connectivity_Kit_x64_%1.exe"><f>20250131</f></connkit>
+  </os>
+  <os name="mac">
+   <app root="%1" name="HP_Prime_Virtual_Calculator_%1.dmg"><f>2020_01_16</f></app>
+   <connkit root="%1" name="HP_Prime_Connectivity_Kit_%1.dmg"><f>20200116</f></connkit>
+  </os>
+  <os name="bestaos">
+   <app root="%1" name="HP_Prime_Calculator_Firmware_%1.zip"><f>20250131</f></app>
+  </os>
+  <os name="rtos">
+   <app root="%1" name="HP_Prime_Calculator_G2_Firmware_%1.zip"><f>20250131</f></app>
+  </os>
+  <doc type="connkit" root="Documentation/Computer/%1" name="Connectivity_Kit_%1_%2.pdf">
+   <EN>  <f>2016_08_29_1</f> </EN>
+   <CHS> <f>2016_08_29_1</f> </CHS>
+   <DEU> <f>2016_08_29_1</f> </DEU>
+   <ESP> <f>2016_08_29_1</f> </ESP>
+   <FRA> <f>2016_08_29_1</f> </FRA>
+   <JPN> <f>2016_08_29_1</f> </JPN>
+   <NLD> <f>2016_08_29_1</f> </NLD>
+   <PTB> <f>2016_08_29_1</f> </PTB>
+   <RUS> <f>2016_08_29_1</f> </RUS>
+  </doc>
+  <doc type="emu" root="Documentation/Computer/%1" name="Emulator_Help_%1_%2.pdf">
+   <EN>  <f>2015_06_17_1</f> </EN>
+   <CHS> <f>2015_06_17_1</f> </CHS>
+   <DEU> <f>2015_06_17_1</f> </DEU>
+   <ESP> <f>2015_06_17_1</f> </ESP>
+   <FRA> <f>2015_06_17_1</f> </FRA>
+   <JPN> <f>2015_06_17_1</f> </JPN>
+   <NLD> <f>2015_06_17_1</f> </NLD>
+   <PTB> <f>2015_06_17_1</f> </PTB>
+   <RUS> <f>2015_06_17_1</f> </RUS>
+  </doc>
+  <doc type="qsg" root="Documentation/Calculator/%1" name="Quick_Start_Guide_%1_%2.pdf">
+   <EN>  <f>2017_11_20_1</f> </EN>
+   <CHS> <f>2017_11_20_1</f> </CHS>
+   <DEU> <f>2017_11_20_1</f> </DEU>
+   <ESP> <f>2017_11_20_1</f> </ESP>
+   <FRA> <f>2017_11_20_1</f> </FRA>
+   <JPN> <f>2017_11_20_1</f> </JPN>
+   <NLD> <f>2017_11_20_1</f> </NLD>
+   <PTB> <f>2017_11_20_1</f> </PTB>
+   <RUS> <f>2017_11_20_1</f> </RUS>
+  </doc>
+  <doc type="ug" root="Documentation/Calculator/%1" name="User_Guide_%1_%2.pdf">
+   <EN>  <f>2018_01_12_1</f> </EN>
+   <CHS> <f>2018_01_12_1</f> </CHS>
+   <DEU> <f>2018_01_12_1</f> </DEU>
+   <ESP> <f>2018_01_12_1</f> </ESP>
+   <FRA> <f>2018_01_12_1</f> </FRA>
+   <JPN> <f>2018_01_12_1</f> </JPN>
+   <NLD> <f>2018_01_12_1</f> </NLD>
+   <PTB> <f>2018_01_12_1</f> </PTB>
+   <RUS> <f>2018_01_12_1</f> </RUS>
+  </doc>
+  <doc type="streamer" root="Documentation/Streamer/%1" name="Datastreamer_%1_%2.pdf">
+   <EN>  <f>2014_12_03_1</f> </EN>
+   <CHS> <f>2014_12_03_1</f> </CHS>
+   <DEU> <f>2014_12_03_1</f> </DEU>
+   <ESP> <f>2014_12_03_1</f> </ESP>
+   <FRA> <f>2014_12_03_1</f> </FRA>
+   <JPN> <f>2014_12_03_1</f> </JPN>
+   <NLD> <f>2014_12_03_1</f> </NLD>
+   <PTB> <f>2014_12_03_1</f> </PTB>
+   <RUS> <f>2014_12_03_1</f> </RUS>
+  </doc>
+ </site>
+</update>
+
